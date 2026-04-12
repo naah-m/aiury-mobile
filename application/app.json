@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Aiury",
+    "slug": "Aiury",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/logo_aiury.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/image/logo_aiury.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/image/logo_aiury.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/image/logo_aiury.png"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+export const Colors = {
+  purpleDark: '#907FA6',
+  purpleLight: '#CCABD8',
+  tealDark: '#055A5D',
+  tealLight: '#08979D',
+  inputTeal: '#055a5db0', 
+  white: '#FFFFFF',
+  black: '#000000',
+  red: '#a31919ff',
+  grayLight: '#888',
+  grayLighter: '#f0f0f0',
+  grayDark: '#666',
+  grayDarker: '#444',
+  overlay: 'rgba(0,0,0,0.5)',
+};

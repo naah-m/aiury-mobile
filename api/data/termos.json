@@ -1,0 +1,36 @@
+{
+  "versao": "1.0",
+  "data_atualizacao": "09 de Abril de 2026",
+  "secoes": [
+    {
+      "id": "1",
+      "titulo": "1. Aceitação dos Termos",
+      "texto": "Ao acessar e utilizar o aplicativo Aiury, você concorda expressamente com estes Termos e Condições. Se não concordar com alguma parte, você não deve utilizar o aplicativo."
+    },
+    {
+      "id": "2",
+      "titulo": "2. Natureza do Serviço e Limitações",
+      "texto": "O Aiury é uma plataforma de escuta empática e apoio mútuo, conectando pessoas em vulnerabilidade a ajudantes voluntários. ATENÇÃO: O Aiury NÃO substitui acompanhamento médico, psiquiátrico ou psicológico profissional. Em caso de emergência ou risco à vida, contate imediatamente serviços de emergência ou o CVV (Ligue 188)."
+    },
+    {
+      "id": "3",
+      "titulo": "3. Responsabilidades do Usuário e do Ajudante",
+      "texto": "Espera-se que todos os participantes mantenham um ambiente de respeito, empatia e ausência de julgamentos. É terminantemente proibido o uso de linguagem abusiva, assédio, discriminação ou o compartilhamento de conteúdo impróprio. O descumprimento resultará no banimento imediato da plataforma."
+    },
+    {
+      "id": "4",
+      "titulo": "4. Sigilo e Privacidade",
+      "texto": "A confidencialidade é o pilar do Aiury. As conversas são estritamente privadas. Os ajudantes concordam expressamente em não compartilhar, exportar, printar ou divulgar qualquer informação discutida nos chats. Seus dados pessoais e sensíveis são tratados com rigorosa segurança e criptografia."
+    },
+    {
+      "id": "5",
+      "titulo": "5. Segurança da Conta",
+      "texto": "Você é responsável por manter a confidencialidade das suas credenciais (senha, biometria e PIN de duas etapas). Qualquer atividade realizada sob sua conta é de sua inteira responsabilidade. Recomendamos a ativação de todos os recursos de segurança disponíveis no aplicativo."
+    },
+    {
+      "id": "6",
+      "titulo": "6. Modificações do Serviço",
+      "texto": "O Aiury reserva-se o direito de modificar, suspender ou descontinuar o serviço a qualquer momento, assim como atualizar estes termos. Os usuários serão notificados pelo aplicativo sobre mudanças significativas."
+    }
+  ]
+}
