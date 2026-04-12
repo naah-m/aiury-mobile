@@ -39,6 +39,7 @@ O projeto já conta com infraestrutura preparada para as seguintes funcionalidad
 1. **Tema de Alto Contraste:** Context API (ThemeProvider) já estruturado para acessibilidade global.
 2. **Segurança Avançada:** Implementação de Verificação em Duas Etapas (2FA).
 3. **Acesso Rápido:** Integração com Biometria nativa.
+4. **API Java:** Integração completa com a API Java, carregando os estados diretamente ao banco de dados
 
 ## 🎥 Vídeo de Apresentação
 [Link do Vídeo no YouTube aqui]
