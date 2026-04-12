@@ -42,3 +42,8 @@ O projeto já conta com infraestrutura preparada para as seguintes funcionalidad
 
 ## 🎥 Vídeo de Apresentação
 [Link do Vídeo no YouTube aqui]
+
+## 🎥 Integrantes
+- Nathália Mantovani de Falco RM 99904 
+- João Victor Madella RM 561007
+- Renato de Angelo RM560585
